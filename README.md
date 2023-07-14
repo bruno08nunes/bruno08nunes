@@ -15,8 +15,8 @@
 
 ### Principais Projetos:
 <ul>
-  <li><a href="bruno08nunes.github.io/Projetos/Sudeste/index.html" target="_blank">Primeiro Projeto</a></li>
-  <li><a href="bruno08nunes.github.io/Projetos/Projeto%20-%20Yun%20Li/index.html" target="_blank">Segundo Projeto</a></li>
+  <li><a href="https://bruno08nunes.github.io/Projetos/Sudeste/index.html" target="_blank">Primeiro Projeto</a></li>
+  <li><a href="https://bruno08nunes.github.io/Projetos/Projeto%20-%20Yun%20Li/index.html" target="_blank">Segundo Projeto</a></li>
 </ul>
 
 ### Contatos:
