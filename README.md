@@ -1,4 +1,4 @@
-## Olá! Eu sou Bruno Nunes, estudante de programação.
+## Olá! Eu sou Bruno Nunes e sou um estudante de programação.
 
 <p>🖥️ - Familiaridade com computadores e lógica de programação</p>
 <p>📱 - Estudando desenvolvimento front-end</p>
