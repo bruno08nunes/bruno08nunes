@@ -5,12 +5,11 @@
 <p>🎮 - Interesse de ingressar na área de jogos</p>
 <p>📍 - Rio Grande do Sul</p>
 
-### Linguagens que estou a aprender:
+### Linguagens que sei:
 <ul>
   <li><img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> - HTML5</li>
   <li><img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> - CSS3</li>
   <li><img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> - JavaScript</li>
-  <li><img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> - Python</li>
 </ul>
 
 ### Principais Projetos:
